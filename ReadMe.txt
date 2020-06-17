@@ -1,3 +1,11 @@
+Članovi projekta
+
+Iva Tutiš - iva.tutis@student.math.hr, ivach14@yahoo.com
+Dario Bogović - dario.bogovic@student.math.hr
+Fran Borić - fran.boric@student.math.hr, fboric@yahoo.com
+
+Tema - Predviđanje pojave boli u lumbarnom dijelu kralježnice strojnim učenjem
+
 ------------------------------------------------------------------------UVOD---------------------------------------------------------------
 
 Ovo je kratka dokumentacija za kod u datoteci Zavrsni_kod_Sarsorama.py, za projekt grupe Sarsorama u sklopu predmeta Strojno Ucenje na PMF-MO 2019/2020.
@@ -510,3 +518,5 @@ scoliosis_slope: 3
 Prema modelu 70:30 predviđamo da ćete imati bolove u lumbarnom dijelu krallježnice, žao nam je. 
 
 Prema modelu 80:20 predviđamo da ćete imati bolove u lumbarnom dijelu krallježnice, žao nam je. 
+
+
